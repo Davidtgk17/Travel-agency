@@ -607,3 +607,7 @@ input[type="file"] {
 .footer__list a {
   color: #ffffff;
 }
+
+body {
+  background-color: #171c1f3b;
+}
