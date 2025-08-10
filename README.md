@@ -1,2 +1,3 @@
 ﻿# Travel-agency
-[Демо](https://doka.guide)
+[Демо](https://davidtgk17.github.io/Travel-agency/)
+
